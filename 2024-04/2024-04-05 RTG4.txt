@@ -1,0 +1,14 @@
+
+prepare #x13 (UV/Vis campaign RTG4):
+- 1500 h2o, 500 x2
+- measure => -30
+- add 20uL LDH => -31 (shows precipitate)
+- measure again => -32
+- add 20uL x4 => -33
+- measure twice again => -34, -35
+- add 5uL x11 => -36
+- measure again => -37
+- add 20uL x11 => -38
+- measure again => -39
+- measure again => -40
+- stop experiment

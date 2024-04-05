@@ -1,0 +1,296 @@
+cuvette + 2000ul h2o,,
+Wavelength (nm),Abs,
+400.0725403,0.04218304902,
+398.9899292,0.04235255718,
+398.0617981,0.04242159426,
+396.9788513,0.04200975597,
+396.050415,0.04200998321,
+394.9671021,0.04236582667,
+394.0383911,0.04225108773,
+392.9547424,0.04180783033,
+392.0257263,0.0417018719,
+390.9417114,0.04282014072,
+390.0124207,0.0419976078,
+388.9280701,0.04231996834,
+387.9984741,0.04229585454,
+387.0687561,0.04225670919,
+385.9838867,0.0423871465,
+385.053894,0.04267729074,
+383.968689,0.04270811006,
+383.0383911,0.04313187301,
+381.9528809,0.04327592999,
+381.0222778,0.04267175123,
+379.9364319,0.04260695726,
+379.0055542,0.0431939736,
+378.0745239,0.04363813251,
+376.9881897,0.04277026281,
+376.0568848,0.04355971515,
+374.9702148,0.04340924695,
+374.0386353,0.04309371114,
+372.9516296,0.04314959794,
+372.0197754,0.0434262678,
+370.9324646,0.04418338463,
+370.0003357,0.04373812303,
+369.0680542,0.04325922579,
+367.9802551,0.04353104159,
+367.0477295,0.04422012717,
+365.9595947,0.04422247782,
+365.0267639,0.04386445135,
+363.938324,0.04347710684,
+363.005249,0.04410549998,
+362.0720215,0.04456613958,
+360.9831238,0.0441378206,
+360.0496216,0.04459419474,
+358.9604187,0.0439552702,
+358.0266418,0.0437559858,
+356.9371033,0.04419203848,
+356.0030823,0.04461536184,
+355.0689392,0.04421058297,
+353.9789429,0.04489379749,
+353.0445251,0.04452520981,
+351.9542236,0.04481311515,
+351.0195313,0.04484044015,
+349.9289246,0.04498052597,
+348.993988,0.04454594851,
+348.0588989,0.04492752999,
+346.967865,0.04477991164,
+346.0325317,0.04510707408,
+344.9411621,0.04532361031,
+344.0055847,0.04527945071,
+343.0698547,0.04608404636,
+341.9780579,0.04546549171,
+341.0421143,0.04628474638,
+339.9500122,0.04585973546,
+339.0137939,0.04602530226,
+338.0774536,0.04639856517,
+336.9848938,0.04603839666,
+336.0483093,0.04664722085,
+334.9554749,0.04641158506,
+334.0186462,0.04657606781,
+332.9255066,0.04727459326,
+331.9884338,0.04632886499,
+331.0512085,0.04704565555,
+329.9576721,0.04658047855,
+329.0202026,0.04689428955,
+327.9263611,0.0470675528,
+326.988678,0.04730160907,
+326.0508423,0.0472006537,
+324.956604,0.04702404886,
+324.0185242,0.04792856798,
+322.9239807,0.04828915,
+321.9856873,0.04826007783,
+321.0472717,0.04785821587,
+319.952301,0.04812905192,
+319.0136719,0.04872844741,
+318.0748901,0.04831449687,
+316.9795227,0.04911242053,
+316.0405273,0.04865307361,
+314.9448853,0.04900342226,
+314.0056458,0.04910682514,
+313.0662842,0.0489589721,
+311.9702454,0.04969271645,
+311.0306702,0.05025245622,
+309.9343567,0.04994279891,
+308.9945374,0.04982119426,
+308.0545959,0.04946479201,
+306.9578857,0.05041119084,
+306.0177307,0.05050044879,
+305.0774536,0.05092138425,
+303.9803467,0.05191393197,
+303.039856,0.05175482482,
+301.9425049,0.05158507451,
+301.00177,0.05110985786,
+300.0609436,0.05190739781,
+298.9631958,0.05239376798,
+298.0221558,0.05201698467,
+296.9241333,0.05257625133,
+295.9828491,0.05340339243,
+295.0415039,0.05197951943,
+293.9430847,0.05304117501,
+293.0014954,0.05363643914,
+292.0598145,0.0547644943,
+290.9610291,0.05428329483,
+290.019104,0.05528177321,
+289.0770874,0.05544994399,
+287.9779358,0.05535510182,
+287.0357056,0.05586928502,
+285.9363098,0.05619242042,
+284.993866,0.05666353181,
+284.0513306,0.05689293519,
+282.9515686,0.05782166496,
+282.0088196,0.05741553009,
+281.0659485,0.05785203725,
+279.9658203,0.05784674361,
+279.0227661,0.05748733133,
+277.9223938,0.05879889056,
+276.9790955,0.05879159644,
+276.0357361,0.05843762308,
+274.9350281,0.0587952733,
+273.9914246,0.05943914875,
+273.04776,0.05900154635,
+271.9466858,0.05978696048,
+271.0028076,0.06002595648,
+270.0588379,0.06004988402,
+268.9573975,0.06025654823,
+268.0132446,0.0610232614,
+267.0689697,0.06078538299,
+265.9671936,0.06128949672,
+265.0227356,0.06067904085,
+264.078186,0.06191113964,
+262.9760742,0.06252072752,
+262.031311,0.06190385669,
+260.9289856,0.06270940602,
+259.9840088,0.06291871518,
+259.0389709,0.06295797229,
+257.9363098,0.063329041,
+256.9910583,0.06317671388,
+256.0457458,0.06387852132,
+254.942749,0.0644473061,
+253.9972229,0.06447973847,
+253.0516052,0.06507532299,
+251.948288,0.06517661363,
+251.0024872,0.06592995673,
+250.0566101,0.06696294248,
+248.9592133,0.06698804349,
+248.0187836,0.06780543923,
+247.0782623,0.06811247766,
+245.9808807,0.06927978992,
+245.0401917,0.06969095021,
+243.9425964,0.07086595893,
+243.001709,0.07136379927,
+242.0607452,0.07262840867,
+240.9628448,0.07228945196,
+240.021698,0.074936755,
+238.9235992,0.07630639523,
+237.9822693,0.07777878642,
+237.040863,0.07842195779,
+235.9424591,0.08137881011,
+235.0008698,0.08307412267,
+234.0592041,0.08495918661,
+232.960495,0.08775847405,
+232.0186615,0.09003669024,
+231.0767365,0.09195878357,
+229.9777374,0.09527389705,
+229.0356445,0.09721013159,
+227.9364319,0.0987746194,
+226.9941711,0.1008653492,
+226.0518341,0.1036477983,
+224.9523468,0.10601376,
+224.0098419,0.1083809435,
+223.0672455,0.1104277149,
+221.9674683,0.1133886129,
+221.0247192,0.1148372144,
+219.9247437,0.1181029379,
+218.9818268,0.122137852,
+218.0388489,0.1245420352,
+216.9385986,0.1259642392,
+215.9954376,0.1313551664,
+215.0522156,0.1356357783,
+213.9516907,0.1397463977,
+213.0083008,0.1414351165,
+212.0648346,0.1469338834,
+210.9640503,0.1547817588,
+210.0204315,0.1596912593,
+209.0767365,0.1649819314,
+207.9756775,0.1739008129,
+207.0318298,0.1818139255,
+205.9305878,0.1944640577,
+204.9865875,0.2065773904,
+204.042511,0.2137318552,
+202.9410095,0.2258290648,
+201.9967957,0.2351092994,
+201.0525055,0.2505896986,
+199.9501343,0.2649314106,
+
+cuvette + 2000ul h2o,
+cuvette + 2000ul h2o
+Collection Time: 05/04/2024 07:06:52
+Operator Name  :
+Scan Software Version: 3.00(339)
+Parameter List :
+Instrument                        Cary 50
+Instrument Version                3.00
+Start (nm)                        400.0
+Stop (nm)                         200.0
+X Mode                            Nanometers
+Y Mode                            Abs
+UV-Vis Scan Rate (nm/min)         4800.00
+UV-Vis Data Interval (nm)         1.00
+UV-Vis Ave. Time (sec)            0.0125
+Beam Mode                         Dual Beam
+Baseline Correction               On
+Baseline Type                     Baseline correction
+Baseline File Name                C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-4-big-cuvette-measurements-1500ul.BSW
+Baseline Std Ref File Name
+Cycle Mode                        Off
+Accessory                         Cell changer
+Comments
+Method Log     :
+Method Name    : C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\RTG-method.MSW
+Date/Time stamp: 28/03/2024 13:03:44
+Method Modifications:
+UVVIS SAT Changed: 19/03/2024 12:25:20, Old:0.0125, New:0.1000
+Common SAT Changed: 19/03/2024 12:25:20, Old:0.0125, New:0.1000
+X Start nm Changed: 19/03/2024 12:25:24, Old:  800.0, New:  400.0
+Common Interval nm Changed: 19/03/2024 12:25:24, Old:     5.00, New:     0.50
+Select Cells Changed: 19/03/2024 12:25:24, Old:1, New:0
+Baseline Correction Changed: 19/03/2024 12:26:24, Old:0, New:1
+Cell Changer Changed: 19/03/2024 12:26:24, Old:OFF, New:ON
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-19.BSW
+Baseline file Changed: 19/03/2024 12:27:31, Old:, New:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-19.BSW
+Select Cells Changed: 19/03/2024 12:27:42, Old:0, New:1
+Cell2 Changed: 19/03/2024 12:27:42, Old:ON, New:OFF
+Cell3 Changed: 19/03/2024 12:27:42, Old:ON, New:OFF
+Cell4 Changed: 19/03/2024 12:27:42, Old:ON, New:OFF
+Cell5 Changed: 19/03/2024 12:27:42, Old:ON, New:OFF
+Cell6 Changed: 19/03/2024 12:27:42, Old:ON, New:OFF
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-20.BSW
+Common Interval nm Changed: 19/03/2024 12:29:15, Old:     0.50, New:     1.00
+Overlayed Graphs Changed: 19/03/2024 12:29:15, Old:1, New:0
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-21.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-22.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-19-x4-pure.BSW
+Opened C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-19-x4-pure.BSW
+Autoconvert Changed: 25/03/2024 08:13:08, Old:None, New:Ascii with Log
+Baseline file Changed: 25/03/2024 08:13:35, Old:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-19-x4-pure.BSW, New:
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG2.BSW
+UVVIS SAT Changed: 25/03/2024 08:17:29, Old:0.1000, New:0.0125
+Common SAT Changed: 25/03/2024 08:17:29, Old:0.1000, New:0.0125
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-200uLwater.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-400uLwater.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-600uLwater.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-800uLwater.BSW
+Baseline file Changed: 25/03/2024 08:22:27, Old:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-800uLwater.BSW, New:
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-800uLwater-against-water-baseline.BSW
+UVVIS SAT Changed: 25/03/2024 08:24:12, Old:0.0125, New:0.1000
+Common SAT Changed: 25/03/2024 08:24:12, Old:0.0125, New:0.1000
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-800uLwater-against-water-baseline2.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-500uLwater-5uL-x4.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-500uLwater-10uL-x4.BSW
+Opened C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-500uLwater-10uL-x4.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-water-again.BSW
+Baseline file Changed: 25/03/2024 09:08:20, Old:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-water-again.BSW, New:
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-water-again.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-x2.BSW
+Baseline file Changed: 25/03/2024 09:15:51, Old:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-x2.BSW, New:
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-x2-baseline.BSW
+Opened C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-x2-baseline.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-x2-baseline.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-x8.BSW
+Opened C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-03-25-RTG1-x8.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\RTG-method.MSW
+Opened C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\RTG-method.MSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-1-big-cuvette-measurements.BSW
+Baseline file Changed: 05/04/2024 07:03:49, Old:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-1-big-cuvette-measurements.BSW, New:
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-1-big-cuvette-measurements.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-1-big-cuvette-measurements-500ul.BSW
+Baseline file Changed: 05/04/2024 07:05:09, Old:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-1-big-cuvette-measurements.BSW, New:C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-1-big-cuvette-measurements-500ul.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-2-big-cuvette-measurements-500ul.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-3-big-cuvette-measurements-1000ul.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-4-big-cuvette-measurements-1500ul.BSW
+Saved as C:\Dokumente und Einstellungen\Cary\Eigene Dateien\Robert\2024-04-05-RTG3-5-big-cuvette-measurements-2000ul.BSW
+End Method Modifications
+<Current Cell> , 1
+<Current Wavelength> , 201.1
+
