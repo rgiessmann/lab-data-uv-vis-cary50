@@ -1,0 +1,76 @@
+
+#x16: 
+- 5uL from SH1 5.6.23 (CoSH) + 95uL x14 Tris
+-> 1:20 dilution
+
+#x17:
+- 50uL from #x16 + 450uL x14 Tris
+-> 1:200 dilution
+
+
+UV/Vis campaign RTG5
+
+to cuvette add:
+1.9mL x14, h2 saturated
+
+lock with rubber stopper, gas with h2
+add 50uL #x15 NAD+ with Hamilton syringe through stopper
+add 5uL #x16 enzyme with Hamilton syringe through stopper
+measure A340
+
+A340 absorption goes straight up, with slope ~= 1 AU / min
+
+should be slope=0.6
+
+
+RTG6
+
+prepare #x18:
+to cuvette add:
+1.9mL x14, h2 saturated
+lock with rubber stopper, gas with h2
+add 50uL #x15 NAD+
+measure
+A340 approx 0.206 in kinetics mode
+
+turn to scan mode
+measure baseline air
+add cuvette and scan -> 2024-04-18-RTG-t1 (A340=.12)
+  - A>1.0 below 288nm
+
+add 10uL #x17 enzyme (1:200 dilution)
+delay: 10 seconds to stop watch (when stop watch shows 10 seconds, add enzyme)
+
+start scan at 0min30 stop watch -> t2 (A340=0.28)
+start scan at 1min30 stop watch -> t3 (A340=0.63)
+start scan at 2min30 stop watch -> t4 (A340=1.16)
+start scan at 4min30 stop watch -> t5 (A340>2)
+  - already unusable
+
+
+RTG7
+prepare #x19: as above
+to cuvette add:
+1.9mL x14, h2 saturated
+lock with rubber stopper, gas with h2
+measure cuvette -> 2024-08-18-RTG-blank
+add 10uL #x4 with Hamilton syringe (was the one that was used for enzyme before :( )
+measure -> -t0
+change method to measure down to 200nm again; measure -> -t1
+add 5uL #x17 enzyme at delay 0min10
+start measurement at 0min35 -> t2
+start measurement at 1min30 -> t3
+start measurement at 3min00 -> t4
+start measurement at 22min30 -> t5
+
+
+RTG8
+prepare #x20
+to cuvette add:
+1.9mL x14, h2 saturated
+lock with rubber stopper, gas with h2
+start to measure
+add 50uL #x15 NAD+ at approx 1min00, mix by slight shaking of cuvette
+add 20uL #x17 enzyme dilution (1:200) at approx 3min00, mix by slight shaking of cuvette
+slope 0.7
+
